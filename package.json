@@ -1,0 +1,24 @@
+{
+  "name": "llama-party",
+  "version": "1.0.0",
+  "description": "Llama survival combat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chloro/llama-party.git"
+  },
+  "author": "Cory Maloy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chloro/llama-party/issues"
+  },
+  "homepage": "https://github.com/Chloro/llama-party#readme",
+  "devDependencies": {
+    "babel-preset-stage-3": "",
+    "parcel-bundler": "^1.9.4"
+  }
+}
